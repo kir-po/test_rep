@@ -1,1 +1,4 @@
-https://mc.yandex.ru
+[
+  "https://mc.yandex.ru",
+  "https://vk.com"
+]
